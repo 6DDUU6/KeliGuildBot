@@ -1,0 +1,4 @@
+appid: "102020010"
+token: ""
+redis_url: "redis://localhost"
+redis_max: 20
